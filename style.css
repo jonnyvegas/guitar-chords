@@ -1,0 +1,19 @@
+.fancy-font {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.div-on-guitar {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+#guitar-head {
+    max-width: 75px;
+}
+
+.selection {
+    margin-top: 10%;
+}
